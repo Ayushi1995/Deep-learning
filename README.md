@@ -3,10 +3,10 @@ This Repository has demonstrated Concepts and Projects in the field of deep Lear
 
 Following is the project list
 
-1. [Bike-Sharing](bike-sharing-company-problem)
-2. [Dog-Breed-Classifier](dog-breed-classification-problem)
+1. [Bike-Sharing](#bike-sharing-company-problem)
+2. [Dog-Breed-Classifier](#dog-breed-classification-problem)
 
-## Bike Sharing Company Problem
+## Bike-Sharing Company Problem
 
 ### Problem Statement
 
