@@ -6,7 +6,7 @@ Following is the project list
 1. [Bike-Sharing](bike-sharing-company-problem)
 2. [Dog-Breed-Classifier](dog-breed-classification-problem)
 
-## Bike-Sharing Company Problem
+## Bike Sharing Company Problem
 
 ### Problem Statement
 
@@ -22,7 +22,7 @@ This Project focuses on the following concepts.
 2. Gradient Descent
 3. Backpropagation
 
-## Dog-Breed-Classification Problem
+## Dog Breed Classification Problem
 
 ### Problem Statement
 
